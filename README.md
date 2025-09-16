@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Full-stack developer at Sislogica;<br><br>Studying for a bachelor's degree in software engineering;<br><br>Technical degree in systems development and technical degree in internet informatics</h4>
+<h4 align="left">Software Engineer at XP Investimentos;<br><br>Studying for a bachelor's degree in software engineering;<br><br>Technical degree in systems development and technical degree in internet informatics</h4>
 
 ###
 
